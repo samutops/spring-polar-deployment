@@ -18,7 +18,7 @@ configMapGenerator:
 images:
 - name: dispatcher-service
   newName: ghcr.io/samutops/dispatcher-service
-  newTag: e707809a5519be997a485b40e1f54502e034a695
+  newTag: 3a08a1ef62967cf5ff5783a44533a3fab969b46e
 
 replicas:
 - count: 1
