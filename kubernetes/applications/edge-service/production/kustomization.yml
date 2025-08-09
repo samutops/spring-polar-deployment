@@ -19,7 +19,7 @@ configMapGenerator:
 images:
 - name: edge-service
   newName: ghcr.io/samutops/edge-service
-  newTag: 926ac91331968bc8481e85f34611f9d4034b5b50
+  newTag: a9e5b569ea5ab53d0ba14cb3d23de2d0c14aef95
 
 replicas:
 - count: 1
