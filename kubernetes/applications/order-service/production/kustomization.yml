@@ -18,7 +18,7 @@ configMapGenerator:
 images:
 - name: order-service
   newName: ghcr.io/samutops/order-service
-  newTag: 92efc9504ac3c4fc792c5d254f0828dc3891340e
+  newTag: 872ed95ff052b9006847df930985e2e099b5a77b
 
 replicas:
 - count: 1
